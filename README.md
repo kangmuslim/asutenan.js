@@ -1,0 +1,2 @@
+# asutenan.js
+asutenan
